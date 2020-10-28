@@ -1,1 +1,1 @@
-<?php include-once("baitap1/home.html");?>
+<?php include_once("index.html");?>
